@@ -14,6 +14,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "roboto";
+  background-color: #2D2D2D;
 }
 
 html::-webkit-scrollbar {

@@ -1,9 +1,13 @@
-import React from 'react'
+import { Box } from "@mui/material";
+import React from "react";
+import { Table } from "./frontEnd/components/Table";
 
 const AppContainer = () => {
   return (
-    <div>AppContainer</div>
-  )
-}
+    <Box>
+      <Table />
+    </Box>
+  );
+};
 
-export default AppContainer
+export default AppContainer;
